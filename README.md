@@ -1,8 +1,12 @@
 # typora-themes
 
-推荐一些自己喜欢的 typora 主题，如果你喜欢可以直接打包下载使用(有些源仓库地址找不到了，如果作者看到可以联系我添加)
+记录一些自己常用的一些Typora主题：
 
-喜欢的话也给这些主题点个 star :star: 吧：
-
+- [Konayuki](https://github.com/aerandirsf/Konayuki)
+- [Lapis](https://github.com/YiNNx/typora-theme-lapis)
+- [Gitlab](https://github.com/elitistsnob/typora-gitlab-theme)
+- [Dracula](https://github.com/Teyler7/dracula-typora-theme)
+- [One Dark](https://github.com/sweatran/typora-onedark-theme)
+- [Cobalt](https://github.com/elitistsnob/typora-cobalt-theme)
 - [Blackout Theme](https://github.com/obscurefreeman/typora_theme_blackout?tab=readme-ov-file)
 - [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme)
